@@ -67,5 +67,3 @@ Implements Needleman–Wunsch, Smith–Waterman, Dot Matrix, Word Method.
 
 ⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and reach out for collaboration.
 
-- ⚡ Fun fact: ...
--->
