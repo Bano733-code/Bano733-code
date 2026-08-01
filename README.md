@@ -166,9 +166,7 @@ Python implementation of classical bioinformatics algorithms including Needleman
 
 <br><br>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/> </div>
 
 ## 🐍 Contribution Snake
 
