@@ -3,10 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bano%20Rani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Bioinformatics%20×%20Computational%20Biology&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B532F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Bano+Rani+%F0%9F%91%8B;Bioinformatics+Undergraduate+%F0%9F%A7%AC;AI+for+Healthcare+%26+Computational+Biology;Machine+Learning+%7C+Bioinformatics+%7C+LLMs;Building+Intelligent+Biomedical+Applications" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Bano733-code&color=b532f7&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Bano733-code?label=Followers&style=social" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -165,8 +161,6 @@ Python implementation of classical bioinformatics algorithms including Needleman
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bano733-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B532F7&line=FF4F81&point=00C2A8" width="95%"/>
 
 <br><br>
-
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/> </div>
 
 ## 🐍 Contribution Snake
 
