@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EAADC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Bano+Rani+%F0%9F%91%8B;Bioinformatics+Undergraduate+%F0%9F%A7%AC;AI+for+Healthcare+%26+Computational+Biology;Machine+Learning+%7C+Bioinformatics+%7C+LLMs;Building+Intelligent+Biomedical+Applications" alt="Typing SVG" />
