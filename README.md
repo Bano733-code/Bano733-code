@@ -130,6 +130,7 @@ Python implementation of classical bioinformatics algorithms including Needleman
 **Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & Machine Learning**
@@ -158,25 +159,25 @@ Python implementation of classical bioinformatics algorithms including Needleman
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bano733-code&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bano733-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bano733-code&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bano733-code&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bano733-code&theme=redical&hide_border=true&bg_color=0D1117&color=B532F7&line=FF4F81&point=00C2A8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bano733-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B532F7&line=FF4F81&point=00C2A8" width="95%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bano733-code&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
