@@ -157,17 +157,8 @@ Python implementation of classical bioinformatics algorithms including Needleman
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bano733-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bano733-code&theme=tokyonight&hide_border=true&background=0D1117"/>
+📊 GitHub Activity
+<div align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bano733-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <br> <img src="https://streak-stats.demolab.com/?user=Bano733-code&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
@@ -175,7 +166,7 @@ Python implementation of classical bioinformatics algorithms including Needleman
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/> 
 
 </div>
 
@@ -188,6 +179,7 @@ Python implementation of classical bioinformatics algorithms including Needleman
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 
 ## 🤝 Community & Leadership
 
