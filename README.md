@@ -67,8 +67,6 @@ I enjoy transforming ideas into practical tools using modern AI frameworks, APIs
 
 👩‍💻 **Stanford Code in Place 2026 — Section Leader**
 
-🌐 **Microsoft Learn Student Ambassador Community Contributor**
-
 💻 **Prime Minister Laptop Scheme Recipient**
 
 </div>
@@ -199,7 +197,7 @@ Python implementation of classical bioinformatics algorithms including Needleman
 
 🌐 **Microsoft Learn Student Ambassador** Community Contributor
 
-🏆 **International Hackathon** Participant & Winner
+🏆 **International Hackathon** Participant 
 
 🌍 Passionate about open-source learning and collaboration
 
