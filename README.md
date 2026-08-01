@@ -107,8 +107,10 @@ Expected Graduation: 2027
 
 ### Bioinformatics
 
-![Scanpy](https://img.shields.io/badge/Scanpy-2EAADC?style=for-the-badge)
-![AnnData](https://img.shields.io/badge/AnnData-6DD5FA?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-4E79A7?style=for-the-badge)
+![Single-cell RNA-seq](https://img.shields.io/badge/Single--cell%20RNA--seq-2EAADC?style=for-the-badge)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-FF6F00?style=for-the-badge)
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-0B6FA4?style=for-the-badge)
 ![Sequence Alignment](https://img.shields.io/badge/Sequence_Alignment-00897B?style=for-the-badge)
 
