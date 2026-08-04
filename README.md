@@ -150,12 +150,11 @@ Python implementation of classical bioinformatics algorithms including Needleman
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
+ 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 📊 GitHub Activity
-<div align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bano733-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <br> <img src="https://streak-stats.demolab.com/?user=Bano733-code&theme=tokyonight&hide_border=true&background=0D1117"/>
-
+<div align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bano733-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bano733-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bano733-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B532F7&line=FF4F81&point=00C2A8" width="95%"/>
