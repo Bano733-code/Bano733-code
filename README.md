@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bano%20Rani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Bioinformatics%20×%20Computational%20Biology&descAlignY=58&descSize=20" width="100%"/>
 
