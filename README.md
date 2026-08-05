@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bano%20Rani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Bioinformatics%20×%20Computational%20Biology&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bano%20Rani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Bioinformatics%20×%20Computational%20Biology&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B532F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Bano+Rani+%F0%9F%91%8B;Bioinformatics+Undergraduate+%F0%9F%A7%AC;AI+for+Healthcare+%26+Computational+Biology;Machine+Learning+%7C+Bioinformatics+%7C+LLMs;Building+Intelligent+Biomedical+Applications" alt="Typing SVG" />
 </div>
