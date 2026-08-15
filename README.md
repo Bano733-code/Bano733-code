@@ -158,10 +158,6 @@ Python implementation of classical bioinformatics algorithms including Needleman
  
 <br><br>
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bano733-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B532F7&line=FF4F81&point=00C2A8" width="95%"/>
-
-<br><br>
-
 <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Bano733-code&theme=tokyonight&no-frame=true&row=1&column=6"/> </div>
 
 ## 🐍 Contribution Snake
